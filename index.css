@@ -1,9 +1,15 @@
 *{
 	font-family: 'Open Sans', sans-serif;
+
+    box-sizing: border-box;
+   
+}
+body{
+    background: url(https://www.pcclean.io/wp-content/uploads/2022/10/4957097594958982037.jpg);
 }
 
-.img-fluid {
 
-	border-radius: 50px;
-	border-color: red;
+.button{
+	margin-right: 5rem;
+	padding-top: 5px;
 }

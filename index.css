@@ -1,15 +1,43 @@
 *{
-	font-family: 'Open Sans', sans-serif;
 
-    box-sizing: border-box;
+	box-sizing: border-box;
+   font-family: 'Imperial Script', sans-serif;
+}
+
+.header-image{
+background-image: url(https://images.unsplash.com/photo-1533912352517-92dd08116ea4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHdoaXRlJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+
+ background-position: right;
+background-size: 100% 100%;
+ background-repeat: no-repeat;
    
 }
-body{
-    background: url(https://www.pcclean.io/wp-content/uploads/2022/10/4957097594958982037.jpg);
-}
 
 
-.button{
-	margin-right: 5rem;
-	padding-top: 5px;
+
+.hi{
+	color:gray;
 }
+div .name{
+
+font-family:cursive;
+color: red;
+	
+}
+.tools-bg{
+	background-image: url(https://i.pinimg.com/originals/fa/c0/5c/fac05c110c458e9bab3a3248bfb3c376.jpg);
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
+	 font-size: 25px;
+}
+.contact-bg{
+	background-image: url(https://wallpaperaccess.com/full/2416004.jpg);
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
+}
+.proj-bg{
+	background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190703/pngtree-abstract-halftone-gradient-background--modern-look-image_282854.jpg);
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
+}
+
